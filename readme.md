@@ -14,10 +14,13 @@ other resources.
 ### Done
 Applied Plotting, Charting & Data Representation in Python [Audit in 2018]
 > https://www.coursera.org/learn/python-plotting/home/welcome
+
 Applied Text Mining in Python [Audit in 2018]
 > https://www.coursera.org/learn/python-text-mining/home/welcome
+
 Introduction to Data Science in Python [Audit in 2018]
 > https://www.coursera.org/learn/python-data-analysis/home/week/1
+
 Applied Machine Learning in Python [Audit in 2018]
 > https://www.coursera.org/learn/python-machine-learning/home/welcome
 
@@ -25,8 +28,8 @@ Machine Learning [Certificate in 2016]
 > https://www.coursera.org/account/accomplishments/verify/PM3UF78ER7Y3
 
 ## Projects
--> Dashboard helping planning weekly exercise routine \
--> RaspberryPi to measure the temperature and humidity - later to control AC system using IR components
--> Air quality monitoring tool \
+-> Dashboard helping planning weekly exercise routine \newline
+-> RaspberryPi to measure the temperature and humidity - later to control AC system using IR components \newline
+-> Air quality monitoring tool \newline
 
 ## Books
