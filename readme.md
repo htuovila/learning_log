@@ -13,25 +13,24 @@ other resources.
 
 ### Done
 Applied Plotting, Charting & Data Representation in Python [Audit in 2018]
-> Python
-> Matplotlib
+> Python, Matplotlib
 > https://www.coursera.org/learn/python-plotting/home/welcome
 
 Applied Text Mining in Python [Audit in 2018]
-> Python
-> Regex
+> Python,
+> Regex,
 > NLP
 > https://www.coursera.org/learn/python-text-mining/home/welcome
 
 Introduction to Data Science in Python [Audit in 2018]
-> Python
-> Data structures in python (Pandas, NumPy)
+> Python,
+> Data structures in python, Pandas, NumPy
 > https://www.coursera.org/learn/python-data-analysis/home/week/1
 
 Applied Machine Learning in Python [Audit in 2018]
-> Python
-> Machine learning
-> Sk-learn
+> Python,
+> Machine learning,
+> Sk-learn,
 > https://www.coursera.org/learn/python-machine-learning/home/welcome
 
 Machine Learning [Certificate in 2016]
