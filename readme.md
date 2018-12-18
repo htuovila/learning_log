@@ -38,9 +38,3 @@ Machine Learning [Certificate in 2016]
 > Machine learning fundamentals
 > https://www.coursera.org/account/accomplishments/verify/PM3UF78ER7Y3
 
-## Projects
--> Dashboard helping planning weekly exercise routine \newline
--> RaspberryPi to measure the temperature and humidity - later to control AC system using IR components \newline
--> Air quality monitoring tool \newline
-
-## Books
