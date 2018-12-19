@@ -26,5 +26,5 @@ other resources.
 
 [Machine Learning](https://www.coursera.org/learn/machine-learning)
 - Machine learning fundamentals
--[Certificate in 2016](https://www.coursera.org/account/accomplishments/verify/PM3UF78ER7Y3)
+- [Certificate in 2016](https://www.coursera.org/account/accomplishments/verify/PM3UF78ER7Y3)
 
