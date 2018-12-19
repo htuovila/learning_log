@@ -30,6 +30,6 @@ other resources.
 - [Certificate in 2016](https://www.coursera.org/account/accomplishments/verify/PM3UF78ER7Y3)
 - Machine learning fundamentals
 
-Audit = lectures and readings only. Unpaid mode of Coursera not including graded exercises
+Audit = lectures and readings only. Unpaid mode of Coursera without the graded exercises
 or certificate for completing the course.
 
